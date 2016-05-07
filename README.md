@@ -17,3 +17,6 @@ Inspired by [markdown-assistant](https://github.com/knightli/markdown-assistant)
 * After
 
     ![after](https://github.com/bigyuki/markdown-image-helper/raw/master/assets/README-d1eba.png)
+
+## Orther
+If you are using [Hexo](https://github.com/hexojs/hexo) to writer blog or wiki , i think this small plugin [`hexo-generator-assets`](https://github.com/bigyuki/hexo-generator-assets) is helpful with `markdown-image-helper`
