@@ -18,5 +18,17 @@ Inspired by [markdown-assistant](https://github.com/knightli/markdown-assistant)
 
     ![after](https://github.com/bigyuki/markdown-image-helper/raw/master/assets/README-d1eba.png)
 
-## Orther
+# Q&A
+- Does this plugin support on Windows system ?
+
+    According to the issue [#2](https://github.com/bigyuki/markdown-image-helper/issues/2), thanks to @[hgaronfolo](https://github.com/hgaronfolo) he said that
+
+        For markdown-image-helper to work, the language needs to be "Git Markdown", so on Windows Atom, I went in to settings, packages and searched for "language-gfm" (core package).
+        This package was disabled by default in Windows Atom, but enabled by default in Linux Atom.
+
+        I enabled "language-gfm", and now I can choose "Github Markdown" in Windows Atom and markdown-image-helper now works! :-)
+
+    so you should enable `language-gfm`, maybe i will work, if not please let me know.
+
+## Other
 If you are using [Hexo](https://github.com/hexojs/hexo) to writer blog or wiki , i think this small plugin [`hexo-generator-assets`](https://github.com/bigyuki/hexo-generator-assets) is helpful with `markdown-image-helper`
